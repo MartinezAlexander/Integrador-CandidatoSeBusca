@@ -1,0 +1,2 @@
+# CandidatoSeBusca
+Parcial Funcional Resuelto
