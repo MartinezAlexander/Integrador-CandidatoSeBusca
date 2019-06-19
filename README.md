@@ -3,6 +3,7 @@
 ## Ejercicio integrador
 
 _**La aplicación que en estos días desean todas las fuerzas políticas para armar su fórmula presidencial.**_
+![urna](urna.jpg)
 
 ### Planteo del problema
 Conocemos cierta información de los dirigentes políticos, tales como su nombre, su imagen positiva, sus habilidades, su cargo actual y el partido politico al que pertenece.
